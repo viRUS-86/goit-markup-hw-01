@@ -70,6 +70,9 @@ ul {
 .nav-link:focus {
   color: #2196f3;
 }
+.logo-two {
+  color: #212121;
+}
 .link {
   color: #757575;
 }
